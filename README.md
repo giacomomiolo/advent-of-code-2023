@@ -1,7 +1,7 @@
 # Advent of code 2023
 
 <div align="center">
-  ![Image by author](https://i.imgur.com/cPYyk0P.jpg)
+  ![image](https://i.imgur.com/cPYyk0P.jpg)
   <br>
   <em>Image by author</em>
 </div>
